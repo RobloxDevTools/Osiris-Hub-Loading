@@ -3,7 +3,6 @@ local G2L = {};
 
 -- StarterGui.Loading
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
-G2L["1"]["Enabled"] = false;
 G2L["1"]["Name"] = [[Loading]];
 
 -- StarterGui.Loading.MainFrame
